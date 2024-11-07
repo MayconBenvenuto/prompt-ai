@@ -19,5 +19,5 @@ Este projeto é um ebook focado na engenharia de prompt, abordando como criar e 
 - Conteúdo prático e de fácil compreensão para diferentes níveis de conhecimento.
 - Ferramenta útil para estudantes e profissionais que desejam aprimorar suas habilidades com IA.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar um ebook 'natty' com IA foi um desafio interessante. A integração de diferentes ferramentas de IA e design mostrou como a tecnologia pode ser usada de forma complementar para criar um produto final polido e funcional. Além disso, o processo destacou a importância da revisão humana para garantir a precisão e a clareza do conteúdo gerado por IA.
